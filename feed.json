@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "f333 micro",
+	"icon": "https://micro.blog/fundor333/avatar.jpg",
+	"home_page_url": "https://micro.fundor333.com/",
+	"feed_url": "https://micro.fundor333.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://fundor333.micro.blog/2025/01/06/and-now-i-start-a/",
+				
+				"content_html": "<p>And now I start a beautifull micro pub</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "And now I start a beautifull micro pub\n\n\n<img src=\"uploads/2025/image.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-01-06T13:16:52+01:00",
+				"url": "https://micro.fundor333.com/2025/01/06/and-now-i-start-a/"
+			}
+	]
+}
