@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
-				"id": "http://fundor333.micro.blog/2025/01/15/do-we-need-all-this/",
+				"id": "http://fundor333.micro.blog/2025/01/17/and-more-and-more-cmsblogging/",
 				
+				"content_html": "<p>And more and more cms/blogging service implement activitypub&hellip; This is a good thing and we need to expand feedverse too</p>\n",
+				"content_text": "And more and more cms/blogging service implement activitypub... This is a good thing and we need to expand feedverse too\n",
+				"date_published": "2025-01-17T23:00:12+01:00",
+				"url": "https://micro.fundor333.com/2025/01/17/and-more-and-more-cmsblogging/"
+			},
+			{
+				"id": "http://fundor333.micro.blog/2025/01/17/this-is-why-i-love/",
+				
+				"content_html": "<p>This is why I love having my site and read feeds from others bloggers</p>\n",
+				"content_text": "This is why I love having my site and read feeds from others bloggers\n",
+				"date_published": "2025-01-17T15:25:48+01:00",
+				"url": "https://micro.fundor333.com/2025/01/17/this-is-why-i-love/"
+			},
+			{
+				"id": "http://fundor333.micro.blog/2025/01/17/updating-the-main-site-theme/",
+				
+				"content_html": "<p>Updating the main site theme is a long journey because I have a lot of needs for a personal static site</p>\n",
+				"content_text": "Updating the main site theme is a long journey because I have a lot of needs for a personal static site\n",
+				"date_published": "2025-01-17T12:56:26+01:00",
+				"url": "https://micro.fundor333.com/2025/01/17/updating-the-main-site-theme/"
+			},
+			{
+				"id": "http://fundor333.micro.blog/2025/01/16/and-now-after-years-we/",
+				"title": "New Nintendo console",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p># Do we need all this social networks?</p>\n<p> </p>\n<p>Now we have more social than ever and some of them are zombie walking between the living. Do we need more?</p>\n<p> </p>\n<p>Yes because the old one are not in healthy situations.</p>\n<p> </p>\n<p>- DeviantArt, Tumblr and Google Sites are the zombies, little money for up keeping, less for develop new functions </p>\n<p>- Truth Social and X/Twitter are the drunk uncle... Alive and kicking but with less and less people around with them and always the same</p>\n<p>- Meta (Facebook, Instagram and Threads) are becoming the Far Social West where nobody is wrong and the community say what is true and false and we can’t tell if this will be a good or a bad decision</p>\n<p>- Feeders: the new guy maybe it will become something big but for now it is the little guy</p>\n<p> </p>\n<p>So which one will die first?</p>\n",
+				"content_text": "<p>And now, after 8 years, we have a new Nintendo console. </p>\n<p>I don’t like the standard color palet but it is too early to talk about it so we are <em>waiting</em> for new info</p>\n",
+				"date_published": "2025-01-16T18:22:47+01:00",
+				"url": "https://micro.fundor333.com/2025/01/16/and-now-after-years-we/"
+			},
+			{
+				"id": "http://fundor333.micro.blog/2025/01/15/i-need-all-the-editor/",
+				"title": "I need all the editor to support Markdown",
+				"content_html": "<p>I need all the editor to support Markdown&hellip; I LOVE MD and I prefers to the Words’ documents for the 90% of the time</p>\n",
+				"content_text": "I need all the editor to support Markdown... I LOVE MD and I prefers to the Words’ documents for the 90% of the time\n",
+				"date_published": "2025-01-15T20:21:38+01:00",
+				"url": "https://micro.fundor333.com/2025/01/15/i-need-all-the-editor/"
+			},
+			{
+				"id": "http://fundor333.micro.blog/2025/01/15/do-we-need-all-this/",
+				"title": " Do we need all this social networks?",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Now we have more social than ever and some of them are zombie walking between the living. Do we need more?</p>\n<p>Yes because the old one are not in healthy situations.</p>\n<p> </p>\n<p>- DeviantArt, Tumblr and Google Sites are the zombies, little money for up keeping, less for develop new functions </p>\n<p>- Truth Social and X/Twitter are the drunk uncle... Alive and kicking but with less and less people around with them and always the same</p>\n<p>- Meta (Facebook, Instagram and Threads) are becoming the Far Social West where nobody is wrong and the community say what is true and false and we can’t tell if this will be a good or a bad decision</p>\n<p>- Feeders: the new guy maybe it will become something big but for now it is the little guy</p>\n<p> </p>\n<p>So which one will die first?</p>\n",
 				"date_published": "2025-01-15T20:09:06+01:00",
 				"url": "https://micro.fundor333.com/2025/01/15/do-we-need-all-this/"
 			},
@@ -43,7 +83,7 @@
 				"id": "http://fundor333.micro.blog/2025/01/08/sometime-you-only-need-the/",
 				
 				"content_html": "<p>Sometime you only need the right color</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometime you only need the right color\n\n<img src=\"uploads/2025/image.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sometime you only need the right color\n\n<img src=\"https://cdn.uploads.micro.blog/71508/2025/image.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-08T20:11:46+01:00",
 				"url": "https://micro.fundor333.com/2025/01/08/sometime-you-only-need-the/",
 				"tags": ["Photography"]
@@ -52,7 +92,7 @@
 				"id": "http://fundor333.micro.blog/2025/01/07/sometime-i-take-a-photo/",
 				"title": "Sometime I take a photo at random moment",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Sometime I take a photo at random moment, without thinking, only because I fell the need … And this time is a very good one</p>\n<p><img title=\"DSCF0256-Enhanced-NR.jpg\" src=\"https://micro.fundor333.com/uploads/2025/dscf0256-enhanced-nr.jpg\" alt=\"DSCF0256 Enhanced NR.\" /></p>\n",
+				"content_text": "<p>Sometime I take a photo at random moment, without thinking, only because I fell the need … And this time is a very good one</p>\n<p><img title=\"DSCF0256-Enhanced-NR.jpg\" src=\"https://cdn.uploads.micro.blog/71508/2025/dscf0256-enhanced-nr.jpg\" alt=\"DSCF0256 Enhanced NR.\" /></p>\n",
 				"date_published": "2025-01-07T08:41:38+01:00",
 				"url": "https://micro.fundor333.com/2025/01/07/sometime-i-take-a-photo/",
 				"tags": ["Photography"]
@@ -61,7 +101,7 @@
 				"id": "http://fundor333.micro.blog/2025/01/06/and-now-i-start-a/",
 				"title": "And now I start a beautifull micro pub",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>And now I start a beautifull micro pub</p>\n<p><img src=\"uploads/2025/image.jpg\" /></p>\n",
+				"content_text": "<p>And now I start a beautifull micro pub</p>\n<p><img src=\"https://cdn.uploads.micro.blog/71508/2025/image.jpg\" /></p>\n",
 				"date_published": "2025-01-06T13:16:52+01:00",
 				"url": "https://micro.fundor333.com/2025/01/06/and-now-i-start-a/",
 				"tags": ["Photography"]
